@@ -1,2 +1,2 @@
-UPLOAD_FOLDER = '/Users/deepikaravi/yojana/restful_docker/uploads/'
+UPLOAD_FOLDER = '/uploads/'
 ALLOWED_EXTENSIONS = set(['tar','gz'])
