@@ -5,7 +5,7 @@ from images import Images
 from containers import Container
 from hub import HubPush, HubSearch, HubPull
 from client import Version, Info, Ping
-from recommender import Recommender
+
 
 if __name__ == '__main__':
     app = Flask(__name__)
