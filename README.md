@@ -1,8 +1,7 @@
 # daas
 Docker as a service
 
-Offers the docker functionality as a REST web service.
-Technologies: Docker Python SDK, Flask-restful
+Offers the docker functionality as a REST web service(Docker Python SDK, Flask-restful)
 
 File organization:
 
